@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+#center{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    height: 100vh; 
+}
+h1{
+    font-family: "Playwrite IT Moderna", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+;
